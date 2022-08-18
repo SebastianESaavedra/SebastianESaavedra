@@ -3,7 +3,7 @@
 <h3 align="center">Estoy terminando la carrera de Cs. Geológicas UBA e iniciándome en el mundo de los datos.</h3>
 <img align="right" alt="Coding" width="350" src= "https://media2.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif?cid=ecf05e4726fwmu12acmgux6h71ey8pkxp63uou71n0gy4dwj&rid=giphy.gif&ct=g" >
 
-- 🔭 Mi último proyecto es el [análisis de la Formación Agrio](https://github.com/SebastianESaavedra/Analisis-Formacion-Agrio-PowerBI)
+- 🔭 Mi último proyecto es el [análisis de la Formación Agrio en Power BI.](https://github.com/SebastianESaavedra/Analisis-Formacion-Agrio-PowerBI)
 
 - 🌱 Estoy aprendiendo sobre **Big Data, BI, Data Engineering y más.**
 
