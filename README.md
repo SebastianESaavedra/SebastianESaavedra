@@ -1,4 +1,3 @@
-![MasterHead](https://i.postimg.cc/jdMn3LWd/banner-github-3.png)
 
 <h1 align="center">Hola 👋, Soy Sebastian</h1>
 <h3 align="center">Estoy terminando la carrera de Cs. Geológicas e iniciándome en el mundo de los datos.</h3>
