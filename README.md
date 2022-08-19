@@ -1,3 +1,4 @@
+![MasterHead](https://www.getsmarter.com/blog/wp-content/uploads/2019/02/desktop_banner.jpg)
 
 <h1 align="center">Hola 👋, Soy Sebastian</h1>
 <h3 align="center">Estoy terminando la carrera de Cs. Geológicas e iniciándome en el mundo de los datos.</h3>
