@@ -8,7 +8,7 @@
 ---
 
 
-- 🔭 Mi último proyecto es el [análisis de la Formación Agrio en Power BI.](https://github.com/SebastianESaavedra/Analisis-Formacion-Agrio-PowerBI)
+- 🚀 Mi último proyecto es el [análisis de la Formación Agrio en Power BI.](https://github.com/SebastianESaavedra/Analisis-Formacion-Agrio-PowerBI)
 
 - 🌱 Estoy aprendiendo sobre **Big Data, BI, Data Engineering y más.**
 
