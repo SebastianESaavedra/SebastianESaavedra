@@ -15,7 +15,7 @@
 
 - 👨‍💻 Tengo interés por los datos, **tanto su visualización como su estructura y análisis.**
 
-- ⚡ Estoy empezando además la **tecnicatura en ciencia de datos e inteligencia artificial.**
+- ⚡ Estoy cursando la **tecnicatura en ciencia de datos e inteligencia artificial.**
 
 - 📫 Te podes comunicar conmigo por: **sebastianeriksaavedra@gmail.com**
 ---
