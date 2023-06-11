@@ -17,7 +17,7 @@
 
 - ⚡ Estoy cursando la **tecnicatura en ciencia de datos e inteligencia artificial.**
 
-- 📫 Te podes comunicar conmigo: **sebastianeriksaavedra@gmail.com**
+- 📫 Te podes comunicar conmigo: **sebastianeriksaavedra@gmail.com** o Linkedin
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
