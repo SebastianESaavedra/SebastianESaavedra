@@ -9,7 +9,8 @@
 
 - ⭐ Actualmente me desempeño como Data Analyst.
 
-- 🚀 Mi último proyecto es el [análisis estudiantil en carreras de IT de Argentina](https://github.com/SebastianESaavedra/Proyecto-Quales-Tablero/tree/main) en Power BI y [análisis EDA de datos de producción de reservorios convencionales y NC](https://github.com/SebastianESaavedra/AnalisisEDA) en Python.
+- 🚀 Mis últimos proyectos son: [análisis estudiantil en carreras de IT de Argentina](https://github.com/SebastianESaavedra/Proyecto-Quales-Tablero/tree/main) en Power BI
+ y [análisis EDA de datos de producción de reservorios convencionales y NC](https://github.com/SebastianESaavedra/AnalisisEDA) en Python.
 
 - 🌱 Estoy aprendiendo sobre **Big Data, BI, Data Engineering y más.**
 
