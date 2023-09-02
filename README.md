@@ -9,7 +9,7 @@
 
 - ⭐ Actualmente me desempeño como Data Analyst.
 
-- 🚀 Mi último proyecto es el [análisis de la Formación Agrio en Power BI.](https://github.com/SebastianESaavedra/Analisis-Formacion-Agrio-PowerBI)
+- 🚀 Mi último proyecto es el [análisis estudiantil en carreras de IT de Argentina.](https://github.com/SebastianESaavedra/Proyecto-Quales-Tablero/tree/main)
 
 - 🌱 Estoy aprendiendo sobre **Big Data, BI, Data Engineering y más.**
 
