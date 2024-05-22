@@ -11,11 +11,11 @@
 
 - 🚀 Mis últimos proyectos son:
 
-   ✔[análisis habitacional en CABA](https://github.com/SebastianESaavedra/Proyecto-Analisis-ETOI/tree/main) en Power BI
+   ✔[Análisis habitacional en CABA](https://github.com/SebastianESaavedra/Proyecto-Analisis-ETOI/tree/main) en Power BI
 
-   ✔[análisis estudiantil en carreras de IT de Argentina](https://github.com/SebastianESaavedra/Proyecto-Quales-Tablero/tree/main) en Power BI
+   ✔[Análisis estudiantil en carreras de IT de Argentina](https://github.com/SebastianESaavedra/Proyecto-Quales-Tablero/tree/main) en Power BI
 
-   ✔[análisis EDA de datos de producción de reservorios convencionales y NC](https://github.com/SebastianESaavedra/AnalisisEDA) en Python.
+   ✔[Análisis EDA de datos de producción de reservorios convencionales y NC](https://github.com/SebastianESaavedra/AnalisisEDA) en Python.
 
 - 🌱 Estoy aprendiendo sobre **Big Data, BI, Data Engineering y más.**
 
